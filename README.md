@@ -2,10 +2,16 @@
 
 This is just an example app to learn fetch data from external data sources.
 
-Backend/Data Resources from IT Bookstore => https://api.itbook.store/
-Bookmark save on local using sqflite
+Backend/Data Resources from IT Bookstore => https://api.itbook.store/ <br>
+Bookmark save on local using sqflite <br>
 State management = Provider
-for more 
+
+
+## Screenshot
+<img src="screenshot/Screenshot_20230109_232910.png" alt="Home" width="600" height="1000"/>
+<img src="screenshot/Screenshot_20230109_233011.png" alt="Search" width="600" height="1000"/>
+<img src="screenshot/Screenshot_20230109_233037.png" alt="Book Details" width="600" height="1000"/>
+<img src="screenshot/Screenshot_20230109_233101.png" alt="Bookmark" width="600" height="1000"/>
 
 ## Getting Started
 
